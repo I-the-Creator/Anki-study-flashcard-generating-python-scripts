@@ -1,0 +1,24 @@
+Question: What is the total magnification and field of view when using a light microscope to observe cells?
+Answer: The total magnification is calculated by multiplying the magnification of each objective lens. The field of view (FOV) is the area that can be seen through the microscope at a given magnification.
+Question: What are the parts of a microscope?
+Answer: A microscope typically has several parts including the body, eyepiece, objective lenses, stage, diaphragm, and focus knobs.
+Question: How do you calculate the magnification of each objective lens?
+Answer: The magnification of each objective lens can be calculated by dividing the focal length of the objective lens by the focal length of the eyepiece.
+Question: How do you calculate the field of view at different magnifications?
+Answer: The field of view at different magnifications can be calculated by dividing the diameter of the field of view at a lower magnification by the magnification of the objective lens.
+Question: How do you use FOV to calculate size of specimen?
+Answer: To calculate the size of a specimen using FOV, first determine how many times the object fits across the FOV. Then divide this number by the FOV.
+Question: What are organelles and what do they do?
+Answer: Organelles are structures within a cell that perform specific functions and biochemical processes like controlling cell growth and producing energy. These biochemical processes are controlled and regulated by a series of specific enzymes. Plant and animal cells can contain similar types of organelles.
+Question: Which organelle is responsible for photosynthesis?
+Answer: Chloroplasts
+Question: Which organelle is responsible for cellular respiration?
+Answer: Mitochondria
+Question: Which organelle synthesizes complex molecules including proteins?
+Answer: Ribosomes
+Question: Which organelle synthesizes carbohydrates, lipids and steroids?
+Answer: Endoplasmic reticulum
+Question: Which organelle is responsible for manufacturing and storing of food?
+Answer: Vacuoles
+Question: Which organelle is responsible for the removal of cellular products and wastes?
+Answer: Lysosomes
